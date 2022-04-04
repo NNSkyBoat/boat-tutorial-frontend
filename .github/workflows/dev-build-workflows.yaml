@@ -10,7 +10,7 @@ on:
     branches:
       - develop
 
-env
+env:
   APP_NAME: boat-tutorial-frontend
   CONTAINER_REPOSITORY: "acrboattutorial001.azurecr.io"
   IMAGE_TAG: "0.0.1-SNAPSHOT"
